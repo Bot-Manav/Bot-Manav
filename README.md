@@ -49,46 +49,46 @@ class Manav:
 ## `> ls ~/projects/`
 
 <!-- ─────────── PAY-SAFE ─────────── -->
-### 💳 Pay-Safe &nbsp;[![🔒 Private](https://img.shields.io/badge/repo-private-red?style=flat-square&logo=github&logoColor=white)](#) &nbsp;[![Frontend](https://img.shields.io/badge/Frontend-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/dedakiyamanavprojects/pay-safe-frontend) &nbsp;[![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://render.com) &nbsp;[![DB](https://img.shields.io/badge/DB-Neon-00E699?style=flat-square&logo=postgresql&logoColor=black)](https://neon.tech)
+### 💳 Pay-Safe &nbsp;[![🔒 Private](https://img.shields.io/badge/repo-private-red?style=flat-square&logo=github&logoColor=white)](#) &nbsp;[![🌐 Live](https://img.shields.io/badge/🌐-Live-00FF88?style=flat-square)](https://vercel.com/dedakiyamanavprojects/pay-safe-frontend)
 
 > **Full-Stack Fintech Engine**
 
-A production-grade payment platform with **escrow protection**, **fast-pay synchronization**, and **bi-lateral audit trails**. Frontend on **Vercel**, backend on **Render**, powered by **Neon PostgreSQL**. Repo is private — live deployment speaks for itself.
+A production-grade payment platform with **escrow protection**, **fast-pay synchronization**, and **bi-lateral audit trails**. Repo is private — live deployment speaks for itself.
 
-`Spring Boot` `React` `Neon PostgreSQL` `REST API` `JWT Auth` `Tailwind CSS`
+`Spring Boot` `React` `Tailwind CSS` `REST API` `JWT Auth` `Neon PostgreSQL` `Vercel` `Render`
 
 ---
 
 <!-- ─────────── KNOCK-KNOCK ─────────── -->
-### 🚪 Knock-Knock &nbsp;[![Azure](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://knock-knock-frontend.ashydune-0ee80f94.southeastasia.azurecontainerapps.io) &nbsp;[🌐 Live](https://knock-knock-frontend.ashydune-0ee80f94.southeastasia.azurecontainerapps.io)
+### 🚪 Knock-Knock &nbsp;[![🌐 Live](https://img.shields.io/badge/🌐-Live-00FF88?style=flat-square)](https://knock-knock-frontend.ashydune-0ee80f94.southeastasia.azurecontainerapps.io)
 
 > **Real-Time Communication Platform**
 
 A full-stack real-time application containerized and deployed on **Microsoft Azure Container Apps** (Southeast Asia region). Built for low-latency, high-availability communication.
 
-`Azure Container Apps` `Docker` `React` `WebSockets` `REST API`
+`React` `WebSockets` `REST API` `Docker` `Azure Container Apps`
 
 ---
 
 <!-- ─────────── MEDIAGUARD ─────────── -->
-### 🛡️ MediaGuard &nbsp;[![Azure](https://img.shields.io/badge/Azure_App_Service-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://mediaguard-app-sea-dxcfhchsb9c5g4ar.southeastasia-01.azurewebsites.net) &nbsp;[🌐 Live](https://mediaguard-app-sea-dxcfhchsb9c5g4ar.southeastasia-01.azurewebsites.net)
+### 🛡️ MediaGuard &nbsp;[![🌐 Live](https://img.shields.io/badge/🌐-Live-00FF88?style=flat-square)](https://mediaguard-app-sea-dxcfhchsb9c5g4ar.southeastasia-01.azurewebsites.net)
 
 > **Media Content Security Platform**
 
 A security-focused application for media content protection and monitoring, hosted on **Microsoft Azure App Service** (Southeast Asia). Merging cybersecurity principles with modern media management.
 
-`Azure App Service` `Python` `Content Security` `Media Processing`
+`Python` `Content Security` `Media Processing` `Azure App Service`
 
 ---
 
 <!-- ─────────── STEM-OS ─────────── -->
-### 🎮 STEM-OS &nbsp;[![Firebase](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://stem-os.web.app/dashboard) &nbsp;[🌐 Live Dashboard](https://stem-os.web.app/dashboard)
+### 🎮 STEM-OS &nbsp;[![🌐 Live](https://img.shields.io/badge/🌐-Live-00FF88?style=flat-square)](https://stem-os.web.app/dashboard)
 
 > **Interactive STEM Learning Platform**
 
 A gamified STEM education platform — *learn through play, master through practice*. Deployed on **Firebase Hosting** with a real-time dashboard for tracking learner progress. Where EdTech meets game design.
 
-`Firebase` `React` `Gamification` `Education Tech` `Real-Time Dashboard`
+`React` `Gamification` `Education Tech` `Real-Time Dashboard` `Firebase Hosting`
 
 ---
 
