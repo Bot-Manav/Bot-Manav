@@ -49,7 +49,7 @@ class Manav:
 ## `> ls ~/projects/`
 
 <!-- ─────────── PAY-SAFE ─────────── -->
-### 💳 Pay-Safe &nbsp;[![🔒 Private](https://img.shields.io/badge/repo-private-red?style=flat-square&logo=github&logoColor=white)](#) &nbsp;[![🌐 Live](https://img.shields.io/badge/🌐-Live-00FF88?style=flat-square)](https://vercel.com/dedakiyamanavprojects/pay-safe-frontend)
+### 💳 Pay-Safe &nbsp;[![🔒 Private](https://img.shields.io/badge/repo-private-red?style=flat-square&logo=github&logoColor=white)](#) &nbsp;[![🌐 Live](https://img.shields.io/badge/🌐-Live-00FF88?style=flat-square)](https://pay-safe-frontend.vercel.app/)
 
 > **Full-Stack Fintech Engine**
 
