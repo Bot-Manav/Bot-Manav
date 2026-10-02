@@ -10,13 +10,15 @@
 
 # `MANAV.EXE` — Dedakiya Manavkumar
 
-### 🛡️ Security Researcher · 💳 Fintech Engineer · 🌐 Full-Stack Developer
-
+### 🌐 Full-Stack Developer · 🛡️ Security Researcher · 💳 Fintech Builder
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=620&lines=Building+secure+financial+ecosystems;Hunting+vulnerabilities+so+you+don't+have+to;Fullstack+%7C+Fintech+%7C+Cybersecurity;Code+is+poetry%2C+but+security+is+the+rhyme." alt="Typing SVG" />
 
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manav-dedakiya) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedakiyamanav6@gmail.com) 
 [![GitHub followers](https://img.shields.io/github/followers/Bot-Manav?style=for-the-badge&color=00FF88&labelColor=0d1117&logo=github)](https://github.com/Bot-Manav)
 [![Profile Views](https://komarev.com/ghpvc/?username=Bot-Manav&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS)](https://github.com/Bot-Manav)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedakiyamanav6+dev@gmail.com)
+
 
 </div>
 
